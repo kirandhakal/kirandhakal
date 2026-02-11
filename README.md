@@ -12,10 +12,9 @@
 
 I’m a **Computer Engineer** and **Full Stack Developer** with a strong passion for **Artificial Intelligence**. I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems. Always learning, always building, and driven by innovation.
 
-* 📍 Based in **Pātan, Nepal**
+* 📍 Based in **kathmandu, Nepal**
 * 💼 **2+ Years** of professional coding excellence
 * 🎯 Focus: **Next.js, AI Integration, and System Design**
-* ⚡ Fun Fact: I believe clean code is like good humor—if you have to explain it, it’s bad.
 
 ---
 
@@ -50,7 +49,7 @@ I’m a **Computer Engineer** and **Full Stack Developer** with a strong passion
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kirandhakal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=2D3436&title_color=fb8c00&icon_color=f4511e&text_color=FFFFFF&border_radius=10" height="180em" alt="GitHub Stats" />
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=kirandhakal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=2D3436&title_color=fb8c00&icon_color=f4511e&text_color=FFFFFF&border_radius=10" height="180em" alt="GitHub Stats" /> -->
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirandhakal&theme=tokyonight&hide_border=true&background=2D3436&stroke=fb8c00&ring=f4511e&fire=fb8c00&currStreakLabel=FFFFFF&border_radius=10" height="180em" alt="GitHub Streak" />
